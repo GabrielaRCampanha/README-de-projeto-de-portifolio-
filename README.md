@@ -11,14 +11,17 @@ Eu estava fazendo um curso de python e meu trabalho foi criar um programa que fa
 
 ## 📚 O que aprendi
 •⁠  ⁠Estruturas de programação em Python
+
 •⁠  ⁠Controle de fluxo
+
 •⁠  ⁠Manipulação de dados
+
 •⁠  ⁠Uso do Git e GitHub para versionamento
 
 ## 🛠️ Como executar
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
+git clone https://github.com/GabrielaRCampanha/README-de-projeto-de-portifolio-.git
 
 # Entre na pasta do projeto
 cd SABOR-EXPRESS
